@@ -1,0 +1,8 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+
+//class OSU3D_CPP_API Spinner : public BeatNode {
+//
+//};
